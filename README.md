@@ -2,17 +2,17 @@
 
 Introducing "TrekTonick" ⚡️, my latest mobile app developed in under 25 days for a client in Saudi Arabia. It's a unique fitness tracker that motivates users with monetary rewards ($10 for 5,000 steps) 🏃‍♂️💰 and provides expert advice through meetings with specialists and chats with our health-focused chatbot 🤖🩺.
 
-## Posters
-![Poster 1](screenshots/1.png)
-![Poster 2](screenshots/2.png)
-![Poster 3](screenshots/3.png)
-![Poster 4](screenshots/4.png)
-![Poster 5](screenshots/5.png)
-![Poster 6](screenshots/6.png)
-![Poster 7](screenshots/7.png)
-![Poster 8](screenshots/8.png)
-![Poster 9](screenshots/9.png)
-![Poster 10](screenshots/10.png)
+## Overview
+<img src="screenshots/1.png" alt="Poster 1" width="300"/>
+<img src="screenshots/2.png" alt="Poster 2" width="300"/>
+<img src="screenshots/3.png" alt="Poster 3" width="300"/>
+<img src="screenshots/4.png" alt="Poster 4" width="300"/>
+<img src="screenshots/5.png" alt="Poster 5" width="300"/>
+<img src="screenshots/6.png" alt="Poster 6" width="300"/>
+<img src="screenshots/7.png" alt="Poster 7" width="300"/>
+<img src="screenshots/8.png" alt="Poster 8" width="300"/>
+<img src="screenshots/9.png" alt="Poster 9" width="300"/>
+<img src="screenshots/10.png" alt="Poster 10" width="300"/>
 
 ## Key Features
 - 🏃‍♂️ **Pedometer**: Tracks steps based on user metrics.
