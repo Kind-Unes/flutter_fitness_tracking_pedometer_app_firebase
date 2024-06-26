@@ -1,6 +1,6 @@
 # TrekTonick: Earn Money by Walking 💵🚶
 
-Introducing "TrekTonick" ⚡️, my latest mobile app developed in under 25 days for a client in Saudi Arabia. It's a unique fitness tracker that motivates users with monetary rewards ($10 for 5,000 steps) 🏃‍♂️💰 and provides expert advice through meetings with specialists and chats with our health-focused chatbot 🤖🩺.
+Introducing "TrekTonick" ⚡, It's a unique fitness tracker that motivates users with monetary rewards ($10 for 5,000 steps) 🏃‍♂️💰 and provides expert advice through meetings with specialists and chats with our health-focused chatbot 🤖🩺.
 
 ## Overview
 
