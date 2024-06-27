@@ -5,16 +5,16 @@ Introducing "TrekTonick" ⚡, It's a unique fitness tracker that motivates users
 ## Overview
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="screenshots/1.png" alt="Poster 1" width="300"/>
-  <img src="screenshots/2.png" alt="Poster 2" width="300"/>
-  <img src="screenshots/3.png" alt="Poster 3" width="300"/>
-  <img src="screenshots/4.png" alt="Poster 4" width="300"/>
-  <img src="screenshots/5.png" alt="Poster 5" width="300"/>
-  <img src="screenshots/6.png" alt="Poster 6" width="300"/>
-  <img src="screenshots/7.png" alt="Poster 7" width="300"/>
-  <img src="screenshots/8.png" alt="Poster 8" width="300"/>
-  <img src="screenshots/9.png" alt="Poster 9" width="300"/>
-  <img src="screenshots/10.png" alt="Poster 10" width="300"/>
+  <img src="screenshots/1.png" alt="Poster 1" width="250"/>
+  <img src="screenshots/2.png" alt="Poster 2" width="250"/>
+  <img src="screenshots/3.png" alt="Poster 3" width="250"/>
+  <img src="screenshots/4.png" alt="Poster 4" width="250"/>
+  <img src="screenshots/5.png" alt="Poster 5" width="250"/>
+  <img src="screenshots/6.png" alt="Poster 6" width="250"/>
+  <img src="screenshots/7.png" alt="Poster 7" width="250"/>
+  <img src="screenshots/8.png" alt="Poster 8" width="250"/>
+  <img src="screenshots/9.png" alt="Poster 9" width="250"/>
+  <img src="screenshots/10.png" alt="Poster 10" width="250"/>
 </div>
 
 ## Key Features
